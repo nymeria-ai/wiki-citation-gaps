@@ -1,6 +1,14 @@
 # Data files
-data/
-*.zim
+data/*.zim
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.log
+
+# But DO track reports and baselines
+!data/*_REPORT.md
+!data/monitoring_baseline.json
+!data/pipeline_summary.json
 
 # Python
 __pycache__/

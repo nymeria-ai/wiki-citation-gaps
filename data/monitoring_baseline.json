@@ -1,0 +1,68 @@
+{
+  "created_at": "2026-06-05T08:39:48.183848",
+  "phase": "2",
+  "description": "Baseline metrics for 6 critical gap articles before any Wikipedia edits",
+  "zim_snapshot": "English Wikipedia (no pictures), March 2026",
+  "articles": {
+    "List of collaborative software": {
+      "word_count": 4293,
+      "reference_count": 79,
+      "reference_density_per_1000w": 18.4,
+      "monday_mentioned": false,
+      "competitor_mentions": 8,
+      "competitors_list": "clickup,notion,trello,wrike,smartsheet,microsoft project,zoho projects,confluence",
+      "snapshot_date": "2026-06-05T08:39:48.184485",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_collaborative_software"
+    },
+    "Agile software development": {
+      "word_count": 11904,
+      "reference_count": 277,
+      "reference_density_per_1000w": 23.3,
+      "monday_mentioned": false,
+      "competitor_mentions": 3,
+      "competitors_list": "notion,linear,hive",
+      "snapshot_date": "2026-06-05T08:39:48.184509",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agile_software_development"
+    },
+    "Project management": {
+      "word_count": 10911,
+      "reference_count": 158,
+      "reference_density_per_1000w": 14.5,
+      "monday_mentioned": false,
+      "competitor_mentions": 1,
+      "competitors_list": "hive",
+      "snapshot_date": "2026-06-05T08:39:48.184524",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Project_management"
+    },
+    "Gantt chart": {
+      "word_count": 2198,
+      "reference_count": 54,
+      "reference_density_per_1000w": 24.6,
+      "monday_mentioned": false,
+      "competitor_mentions": 1,
+      "competitors_list": "hive",
+      "snapshot_date": "2026-06-05T08:39:48.184539",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gantt_chart"
+    },
+    "Task management": {
+      "word_count": 1001,
+      "reference_count": 6,
+      "reference_density_per_1000w": 6.0,
+      "monday_mentioned": true,
+      "competitor_mentions": 11,
+      "competitors_list": "monday.com,asana,clickup,notion,jira,trello,basecamp,airtable,teamwork,microsoft planner,hive",
+      "snapshot_date": "2026-06-05T08:39:48.184553",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Task_management"
+    },
+    "Project management software": {
+      "word_count": 1337,
+      "reference_count": 18,
+      "reference_density_per_1000w": 13.5,
+      "monday_mentioned": true,
+      "competitor_mentions": 11,
+      "competitors_list": "monday.com,asana,clickup,notion,jira,trello,basecamp,airtable,teamwork,microsoft planner,hive",
+      "snapshot_date": "2026-06-05T08:39:48.184561",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Project_management_software"
+    }
+  }
+}

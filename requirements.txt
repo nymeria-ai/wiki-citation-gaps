@@ -1,6 +1,6 @@
 # ZIM file parsing
 libzim>=3.3.0
-zimply>=3.0.0
+zimply>=1.1.0
 
 # Web framework and API
 fastapi>=0.104.0
